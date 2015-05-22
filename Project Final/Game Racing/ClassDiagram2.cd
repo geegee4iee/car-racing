@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CCar" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAACABAAEAAAAAAEAgAgAAQAhAAABAQAEI=</HashCode>
+      <FileName>Car.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCoord">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAACCAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Coord.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemyCar" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAEAAQAAAAAAA=</HashCode>
+      <FileName>EnemyCar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CItem">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAEAAAAAAEABAAAAQQAAQA=</HashCode>
+      <FileName>Item.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CItemBoostAura">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAABAAAEAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ItemBoostAura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CItemBoostPoint" Collapsed="true">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAEAAAAAAEAAAAAAAAAAIA=</HashCode>
+      <FileName>ItemBoostPoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CItemRegenLife" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAEAACAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ItemRegenLife.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMapRacing">
+    <Position X="9.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAIEAAAAAAAAECAIAAIAQAgQAAgACAAAgoAAAAAhA=</HashCode>
+      <FileName>MapRacing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMuscleCar" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAABAABAAAAAAAAAAA=</HashCode>
+      <FileName>MuscleCar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayer">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAAEAAAAAAgAAAACACAAAAEgAQCBAAAAAABAAAA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayerCar" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAAQAAAAAAEAkAAAAAABBAkAAEABAAAAAAABAAA=</HashCode>
+      <FileName>PlayerCar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSportCar" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAIAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>SportCar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

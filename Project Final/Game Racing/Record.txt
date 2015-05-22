@@ -1,0 +1,14 @@
+13
+long,Sport car,542
+aloha,Muscle car,280
+fuckingass,Muscle car,228
+asdasdsad,Sport car,210
+asdqwe,Sport car,170
+Vodich,Sport car,155
+thanlongthay,Muscle car,154
+mocaimat,Muscle car,123
+fuckyou,Muscle car,110
+hay qua,Sport car,105
+maseo,Muscle car,38
+asdjkhewr,Muscle car,14
+asda,Sport car,0
